@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_H5bXoBSUEfCn75T0dVG-4g" type="PapyrusUMLClassDiagram" name="NewClassDiagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_H5bXoRSUEfCn75T0dVG-4g" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_H5bXohSUEfCn75T0dVG-4g"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_H5bXoxSUEfCn75T0dVG-4g" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="UrbanMarginal.uml#_DiJdEBSOEfC-hOYUX6jQkw"/>
+    </styles>
+    <element xmi:type="uml:Model" href="UrbanMarginal.uml#_DiJdEBSOEfC-hOYUX6jQkw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_wrVq8BSUEfCn75T0dVG-4g" type="PapyrusUMLClassDiagram" name="NewClassDiagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_wrVq8RSUEfCn75T0dVG-4g" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_wrVq8hSUEfCn75T0dVG-4g"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_wrVq8xSUEfCn75T0dVG-4g" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="UrbanMarginal.uml#_DiJdEBSOEfC-hOYUX6jQkw"/>
+    </styles>
+    <element xmi:type="uml:Model" href="UrbanMarginal.uml#_DiJdEBSOEfC-hOYUX6jQkw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_mUVwABSWEfC8qdehAyBuPQ" type="PapyrusUMLClassDiagram" name="Diagramme1" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_mUVwARSWEfC8qdehAyBuPQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_mUVwAhSWEfC8qdehAyBuPQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_mUVwAxSWEfC8qdehAyBuPQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="UrbanMarginal.uml#_DiJdEBSOEfC-hOYUX6jQkw"/>
+    </styles>
+    <element xmi:type="uml:Model" href="UrbanMarginal.uml#_DiJdEBSOEfC-hOYUX6jQkw"/>
+  </notation:Diagram>
+</xmi:XMI>
